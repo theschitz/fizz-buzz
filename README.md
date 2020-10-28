@@ -1,5 +1,6 @@
 # fizz-buzz
-Well, yeah, FizzBuzz
+
+Basic FizzBuzz implementations in different programming languages. Nothing fancy.
 
 * bash
 * c
@@ -7,6 +8,7 @@ Well, yeah, FizzBuzz
 * c#
 * java
 * javascript
+* perl
 * php
 * python
 * typescript
